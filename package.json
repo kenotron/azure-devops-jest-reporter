@@ -1,13 +1,13 @@
 {
   "name": "azure-devops-jest-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
   },
   "dependencies": {
-    "strip-ansi": "^7.0.1",
+    "strip-ansi": "^6.0.0",
     "jest-message-util": "^26.0.0",
     "@jest/reporters": "^26.0.0"
   },
